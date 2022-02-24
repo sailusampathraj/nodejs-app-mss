@@ -33,6 +33,6 @@ node
  nodejs(nodeJSInstallationName: 'nodejs17.5.0') {
         sh 'npm start &'
     }
-}  
+}  */ 
     
-} */  
+}  
