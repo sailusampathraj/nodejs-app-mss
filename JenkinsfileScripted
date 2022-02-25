@@ -10,6 +10,7 @@ node
  {
  nodejs(nodeJSInstallationName: 'nodejs17.5.0') {
         sh 'npm install'
+	sh 'npm test'
     }
  }  
  
